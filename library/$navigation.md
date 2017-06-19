@@ -1,0 +1,137 @@
+
+#### [首页](?file=首页 "返回首页")
+
+##### 学习MachineLearning
+- [MachineLearning简介](?file=001-学习MachineLearning/001-MachineLearning简介 "MachineLearning简介")
+- [MachineLearning课程导图](?file=001-学习MachineLearning/002-MachineLearning课程导图 "MachineLearning课程导图")
+- **Week1**
+    - **Welcome**
+        - **Welcome to Machine Learning**
+            - [video](?file=001-学习MachineLearning/01-Week1/1-Welcome/1-Welcome to Machine Learning/1-video "video")
+        - **Machine Learning Honor Code**
+            - [阅读材料](?file=001-学习MachineLearning/01-Week1/1-Welcome/2-Machine Learning Honor Code/1-阅读材料 "阅读材料")
+    - **Introduction**
+        - **Welcome**
+            - **Welcome**
+                - [Video](?file=001-学习MachineLearning/01-Week1/2-Introduction/1-Welcome/1-Welcome/1-Video "Video")
+            - **What is Machine Learning**
+                - [Video](?file=001-学习MachineLearning/01-Week1/2-Introduction/1-Welcome/2-What is Machine Learning/1-Video "Video")
+                - [阅读材料](?file=001-学习MachineLearning/01-Week1/2-Introduction/1-Welcome/2-What is Machine Learning/2-阅读材料 "阅读材料")
+            - **How to Use Discussion Forums**
+                - [阅读材料](?file=001-学习MachineLearning/01-Week1/2-Introduction/1-Welcome/3-How to Use Discussion Forums/1-阅读材料 "阅读材料")
+        - **Supervised Learning**
+            - [Video](?file=001-学习MachineLearning/01-Week1/2-Introduction/2-Supervised Learning/1-Video "Video")
+            - [阅读材料](?file=001-学习MachineLearning/01-Week1/2-Introduction/2-Supervised Learning/2-阅读材料 "阅读材料")
+        - **Unsupervised Learning**
+            - [video](?file=001-学习MachineLearning/01-Week1/2-Introduction/3-Unsupervised Learning/1-video "video")
+            - [阅读材料](?file=001-学习MachineLearning/01-Week1/2-Introduction/3-Unsupervised Learning/2-阅读材料 "阅读材料")
+        - **Who are Mentors**
+            - [阅读材料](?file=001-学习MachineLearning/01-Week1/2-Introduction/4-Who are Mentors/1-阅读材料 "阅读材料")
+        - **Get to Know Your Classmates**
+            - [阅读材料](?file=001-学习MachineLearning/01-Week1/2-Introduction/5-Get to Know Your Classmates/1-阅读材料 "阅读材料")
+        - **Frequently Asked Questions**
+            - [阅读材料](?file=001-学习MachineLearning/01-Week1/2-Introduction/6-Frequently Asked Questions/1-阅读材料 "阅读材料")
+        - **Review**
+            - **Lecture Slides**
+                - [课程教案pdf](?file=001-学习MachineLearning/01-Week1/2-Introduction/7-Review/1-Lecture Slides/1-课程教案pdf "课程教案pdf")
+            - **Exam Intruduction**
+                - [在线测试](?file=001-学习MachineLearning/01-Week1/2-Introduction/7-Review/2-Exam Intruduction/1-在线测试 "在线测试")
+        - **Other Materials**
+            - **Machine Learning Course Wiki**
+                - [阅读材料](?file=001-学习MachineLearning/01-Week1/2-Introduction/8-Other Materials/1-Machine Learning Course Wiki/1-阅读材料 "阅读材料")
+    - **Mode and Cost Function**
+        - **Model Representation**
+            - [video](?file=001-学习MachineLearning/01-Week1/3-Mode and Cost Function/1-Model Representation/1-video "video")
+            - [阅读材料](?file=001-学习MachineLearning/01-Week1/3-Mode and Cost Function/1-Model Representation/2-阅读材料 "阅读材料")
+        - **Cost Function**
+            - [video](?file=001-学习MachineLearning/01-Week1/3-Mode and Cost Function/2-Cost Function/1-video "video")
+            - [阅读材料](?file=001-学习MachineLearning/01-Week1/3-Mode and Cost Function/2-Cost Function/2-阅读材料 "阅读材料")
+            - [video2](?file=001-学习MachineLearning/01-Week1/3-Mode and Cost Function/2-Cost Function/3-video2 "video2")
+            - [阅读材料2](?file=001-学习MachineLearning/01-Week1/3-Mode and Cost Function/2-Cost Function/4-阅读材料2 "阅读材料2")
+            - [video3](?file=001-学习MachineLearning/01-Week1/3-Mode and Cost Function/2-Cost Function/5-video3 "video3")
+            - [阅读材料3](?file=001-学习MachineLearning/01-Week1/3-Mode and Cost Function/2-Cost Function/6-阅读材料3 "阅读材料3")
+    - **Parameter Learning**
+        - **Gradient Descent**
+            - [video](?file=001-学习MachineLearning/01-Week1/4-Parameter Learning/1-Gradient Descent/1-video "video")
+            - [阅读材料](?file=001-学习MachineLearning/01-Week1/4-Parameter Learning/1-Gradient Descent/2-阅读材料 "阅读材料")
+        - **Gradient Descent Intuition**
+            - [video](?file=001-学习MachineLearning/01-Week1/4-Parameter Learning/2-Gradient Descent Intuition/1-video "video")
+            - [阅读材料](?file=001-学习MachineLearning/01-Week1/4-Parameter Learning/2-Gradient Descent Intuition/2-阅读材料 "阅读材料")
+        - **Gradient Descent For Linear Regression**
+            - [video](?file=001-学习MachineLearning/01-Week1/4-Parameter Learning/3-Gradient Descent For Linear Regression/1-video "video")
+            - [阅读材料](?file=001-学习MachineLearning/01-Week1/4-Parameter Learning/3-Gradient Descent For Linear Regression/2-阅读材料 "阅读材料")
+        - **Review**
+            - **Lecture Slides**
+                - [课程教案pdf](?file=001-学习MachineLearning/01-Week1/4-Parameter Learning/4-Review/1-Lecture Slides/1-课程教案pdf "课程教案pdf")
+            - **Exam Linear Regression with One Variable**
+                - [在线测试](?file=001-学习MachineLearning/01-Week1/4-Parameter Learning/4-Review/2-Exam Linear Regression with One Variable/1-在线测试 "在线测试")
+    - **Linear Algebra Review**
+        - **Matrices and Vectors**
+            - [video](?file=001-学习MachineLearning/01-Week1/5-Linear Algebra Review/1-Matrices and Vectors/1-video "video")
+        - **Addition and Scalar Multiplication**
+            - [video](?file=001-学习MachineLearning/01-Week1/5-Linear Algebra Review/2-Addition and Scalar Multiplication/1-video "video")
+        - **Matrix Vector Multiplication**
+            - [video](?file=001-学习MachineLearning/01-Week1/5-Linear Algebra Review/3-Matrix Vector Multiplication/1-video "video")
+        - **Matrix Matrix Multiplication**
+            - [video](?file=001-学习MachineLearning/01-Week1/5-Linear Algebra Review/4-Matrix Matrix Multiplication/1-video "video")
+        - **Matrix Multiplication Properties**
+            - [video](?file=001-学习MachineLearning/01-Week1/5-Linear Algebra Review/5-Matrix Multiplication Properties/1-video "video")
+        - **Inverse and Transpose**
+            - [video](?file=001-学习MachineLearning/01-Week1/5-Linear Algebra Review/6-Inverse and Transpose/1-video "video")
+        - **Review**
+            - **Lecture Slides**
+                - [课程教案](?file=001-学习MachineLearning/01-Week1/5-Linear Algebra Review/7-Review/1-Lecture Slides/1-课程教案 "课程教案")
+            - **Exam Linear Algebra**
+                - [在线测试](?file=001-学习MachineLearning/01-Week1/5-Linear Algebra Review/7-Review/2-Exam Linear Algebra/1-在线测试 "在线测试")
+- **Week2**
+    - **Linear Regression with Multiple Variables**
+        - **Environment Setup Instructions**
+            - **Setting Up Your Programg Assignment Environment**
+                - [阅读材料](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/1-Environment Setup Instructions/1-Setting Up Your Programg Assignment Environment/1-阅读材料 "阅读材料")
+            - **Installing MATLAB**
+            - **Installing Octave on Windows**
+                - [阅读材料](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/1-Environment Setup Instructions/3-Installing Octave on Windows/1-阅读材料 "阅读材料")
+            - **Installing Octave on Mac OS X (10.10 Yosemite and 10.9 Mavericks and Later**
+            - **Installing Octave on Mac OS X (10.8 Mountain Lion and Earlier)**
+            - **Installing Octave on GNU_Linux**
+            - **More Octave_MATLAB resources**
+        - **Multivariate Linear Regression**
+            - **Multiple Features**
+            - **Gradient Descent for Multiple Variables**
+            - **Gradient Descent in Practice I - Feature Scaling**
+            - **Gradient Descent in Practice II - Learning Rate**
+            - **Features and Polynomial Regression**
+        - **Computing Parameters Analytically**
+            - **Normal Equation**
+            - **Normal Equation Noninvertibility**
+            - **Submitting Programg Assignments**
+            - **Working on and Submitting Programg Assignments**
+            - **Programg tips from Mentors**
+        - **Review**
+            - **Lecture Slides**
+            - **Exam Linear Regression with Multiple Variables**
+    - **OctaveMatlab Tutorial OctaveMatlab**
+        - **OctaveMatlab Tutorial**
+            - **Basic Operations**
+            - **Moving Data Around**
+            - **Computing on Data**
+            - **Plotting Data**
+            - **Control Statements for, while, if statement**
+            - **Vectorization**
+        - **Review**
+            - **Lecture Slides**
+            - **Exam Octave_Matlab Tutorial**
+            - **CodingExam Linear Regression**
+- [如何开始一个新amWiki轻文库](?file=001-学习MachineLearning/100-如何开始一个新amWiki轻文库 "如何开始一个新amWiki轻文库")
+- [amWiki转接到任意域名进行接口测试](?file=001-学习MachineLearning/101-amWiki转接到任意域名进行接口测试 "amWiki转接到任意域名进行接口测试")
+- [如何编辑amWiki轻文库](?file=001-学习MachineLearning/102-如何编辑amWiki轻文库 "如何编辑amWiki轻文库")
+- [使用测试模块测试接口](?file=001-学习MachineLearning/103-使用测试模块测试接口 "使用测试模块测试接口")
+- **学习markdown**
+    - [Markdown快速开始](?file=001-学习MachineLearning/99-学习markdown/01-Markdown快速开始 "Markdown快速开始")
+    - [amWiki与语法高亮](?file=001-学习MachineLearning/99-学习markdown/02-amWiki与语法高亮 "amWiki与语法高亮")
+    - [amWiki与流程图](?file=001-学习MachineLearning/99-学习markdown/03-amWiki与流程图 "amWiki与流程图")
+    - [Atom对Markdown的原生支持](?file=001-学习MachineLearning/99-学习markdown/05-Atom对Markdown的原生支持 "Atom对Markdown的原生支持")
+
+##### 文档示范
+- [通用API接口文档示例](?file=002-文档示范/001-通用API接口文档示例 "通用API接口文档示例")
+- [超长文档页内目录示例](?file=002-文档示范/002-超长文档页内目录示例 "超长文档页内目录示例")
