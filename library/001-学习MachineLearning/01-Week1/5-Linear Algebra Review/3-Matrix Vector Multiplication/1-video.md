@@ -1,7 +1,8 @@
 # 线性代数复习-矩阵和向量乘法
 ## 视频
-<iframe height=510 width=900 src="https://d18ky98rnyall9.cloudfront.net/03.3-V2-LinearAlgebraReview%28Optional%29-MatrixVectorMultiplication.20caffb0b22b11e4901abd97e8288176/full/540p/index.webm?Expires=1497916800&Signature=kll6qZP0Ju23wAAhNWEMBqDm3vJmq2nqurCRTER0POELFG263w-tj6wKvZuqCdnuHYjFg9BqcmYYiAiLDUD~mtSFg~5~TVteXUezcwHpyt1fzMLyn2I86vweB8-Tj~KA719CeIjCFS8J40iy84x7aKirW1YzaXC8LpmGTB5b-WU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"></iframe>
-
+<video height=510 width=900 controls="controls" preload="none">
+      <source src="amWiki/videos/001/01-Week1/5-Linear Algebra Review/3-Matrix Vector Multiplication.mp4" type="video/mp4">
+</video>
 ## 中文
 ### 矩阵和向量乘法
 ![矩阵和向量乘法](amWiki/images/001/01-Week1/5-Linear Algebra Review/12-举例说明矩阵和向量乘法.jpg)

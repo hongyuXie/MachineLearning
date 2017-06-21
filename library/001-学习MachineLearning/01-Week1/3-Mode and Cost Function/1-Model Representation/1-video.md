@@ -1,7 +1,8 @@
 # 【代价函数】模型表达
 ## 视频
-<iframe height=510 width=900 src="https://d3c33hcgiwev3.cloudfront.net/02.1-V2-LinearRegressionWithOneVariable-ModelRepresentation.b2ac9470b22b11e4bb7e93e7536260ed/full/540p/index.webm?Expires=1497744000&Signature=cf-ZB38fU7c6ERF4u1vyJtrcN0xe35nsT1~FVBf90ta5O7NaS1o6GDGh3uQR6vuAMvw4Croxq6~1BqJpAQH3pfGBPzErFAaJnSdf~QuWXe4UosiFulAlegFhTdsXgXOsD4eMVB3vKY5xFO2v5gcAjLMRjcxEBMfSf0JmWXNDvek_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"></iframe>
-
+<video height=510 width=900 controls="controls" preload="none">
+      <source src="amWiki/videos/001/01-Week1/3-Mode and Cost Function/1-Model representation.mp4" type="video/mp4">
+</video>
 ## 中文
 我们的第一个学习算法是线性回归算法 在这段视频中 你会看到这个算法的概况 更重要的是你将会了解 监督学习过程完整的流程
 ### 预测住房价格例子

@@ -1,7 +1,8 @@
 # 线性代数复习-矩阵的逆以及转置
 ## 视频
-<iframe height=510 width=900 src="https://d18ky98rnyall9.cloudfront.net/03.6-V2-LinearAlgebraReview%28Optional%29-InverseAndTranspose.114b8fa0b22b11e48803b9598c8534ce/full/540p/index.webm?Expires=1497916800&Signature=dExkFQ-TXJNXn6imXhnv46YlIXDTHALd0Ef~7Cw8~eAJNlwK~BgAp5I44cxKzuzKsR~f4dkucTGzW61h0cETAn-0KRHjl~Fw8pAtlQj9ecpcmzkeJlycSnvGrsVvOGSYivkOKEiPzID5mGo4s1UWzEQBS8oteY3R55S9K19heXI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"></iframe>
-
+<video height=510 width=900 controls="controls" preload="none">
+      <source src="amWiki/videos/001/01-Week1/5-Linear Algebra Review/6-Inverse and Transpose.mp4" type="video/mp4">
+</video>
 ## 中文
 ### 矩阵的逆
 ![矩阵的逆](amWiki/images/001/01-Week1/5-Linear Algebra Review/31-矩阵的逆.jpg)

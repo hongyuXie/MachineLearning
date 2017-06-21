@@ -1,7 +1,9 @@
 # 代价函数-直观感受2
 ## 视频
-<iframe height=510 width=900 src="https://d3c33hcgiwev3.cloudfront.net/02.4-V2-LinearRegressionWithOneVariable-CostFunctionIntuitionII.78161b10b22b11e49c064db6ead92550/full/540p/index.webm?Expires=1497744000&Signature=EYvO1lsYORS1dFR350zr~Te5Uf-FX9442xFcBOBTSoSsI~7V9CvId4Oy-SFIujMQwCcf5x5-S0OJd9Blr6MtFRKVEHjW5crgTFHgs2YAXAtmA3Xx-ay2I4mRjwwoBQTbIlJe5XLH8l9qK6kI3DG200eIRgswRN56urhqMiNXi3I_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"></iframe>
-
+<video height=510 width=900 controls="controls" preload="none">
+      <source src="amWiki/videos/001/01-Week1/3-Mode and Cost Function/4-Cost Function_3.mp4" type="video/mp4">
+</video>
+## 中文
 ## 中文
 ### θ0、θ1不等于0下的假设函数和代价函数
 ![θ0、θ1不等于0下的假设函数和代价函数](amWiki/images/001/01-Week1/3-Mode and Cost Function/17_θ0、θ1不等于0下的假设函数和代价函数.jpg)

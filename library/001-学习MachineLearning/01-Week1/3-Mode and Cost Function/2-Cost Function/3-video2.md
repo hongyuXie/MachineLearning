@@ -1,7 +1,8 @@
 # 代价函数-直观感受1
 ## 视频
-<iframe height=510 width=900 src="https://d3c33hcgiwev3.cloudfront.net/02.3-V2-LinearRegressionWithOneVariable-CostFunctionIntuitionI.b1dc4c20b22b11e4bb7e93e7536260ed/full/540p/index.webm?Expires=1497744000&Signature=B8jHi3VcXsuhyA-srCmglOyhkdz1UqTU7-8I3Nta3VudB0f7wOl9Gf8nPt806UoVIlM6sNKtVT8AqYu6P1jLnWZt7BhjrYeE7M2AMLeNHzDi-B0W5-GOL4jcX59et57eESjy~hKRCcPCLf4DIERFiRJWITXZkpPfU8BMIHCMJKc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"></iframe>
-
+<video height=510 width=900 controls="controls" preload="none">
+      <source src="amWiki/videos/001/01-Week1/3-Mode and Cost Function/3-Cost Function_2.mp4" type="video/mp4">
+</video>
 ## 中文
 ### 代价函数在做什么？
 ![代价函数在做什么](amWiki/images/001/01-Week1/3-Mode and Cost Function/9_代价函数在做什么.jpg)

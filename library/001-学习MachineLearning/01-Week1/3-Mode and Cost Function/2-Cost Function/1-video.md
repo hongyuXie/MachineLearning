@@ -1,7 +1,8 @@
 # 代价函数
 ## 视频
-<iframe height=510 width=900 src="https://d3c33hcgiwev3.cloudfront.net/02.2-V2-LinearRegressionWithOneVariable-CostFunction.b1832fa0b22b11e49f072fa475844d6b/full/540p/index.webm?Expires=1497744000&Signature=Pq40zc67FbejyERa-8dYJHc851m-ImP93zPHaCxh-pUtVaF1p9bPrwb0z~zv8ONjkCvJDq4Ta54uJffG~U5uAC2G306mHbYjDKk9RDboxfT83P918-P025F1bZphhiB7Nr2d8yuGKYb4c61JGFzaFRaDSozHEUUyHPopOq~ByDs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"></iframe>
-
+<video height=510 width=900 controls="controls" preload="none">
+      <source src="amWiki/videos/001/01-Week1/3-Mode and Cost Function/2-Cost Function_1.mp4" type="video/mp4">
+</video>
 ## 中文
 ### 定义代价函数
 ![定义代价函数](amWiki/images/001/01-Week1/3-Mode and Cost Function/5_定义代价函数.jpg)

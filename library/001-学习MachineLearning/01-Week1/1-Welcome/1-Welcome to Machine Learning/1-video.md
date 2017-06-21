@@ -1,6 +1,8 @@
 # 欢迎加入机器学习
 # 视频
-<iframe height=510 width=900 src="https://d3c33hcgiwev3.cloudfront.net/qHTMkA4fEeW2rSIAC2yC6g.processed/full/540p/index.webm?Expires=1497744000&Signature=UqjCxT18c-wEwUFt-69GLzpeZSzNhyNnRxPTHptidD7CsCORAfhrQpJyR3PtyN9i9kPdplh8CwsejdMk-jZhocWvbFjgkacartsNUNhTOqSTaQisVqBBO24GcLj8ss2DIeGKo1QsOXtQasdsPgNNd8duRBVwvWddFGR55W-mkZ0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"></iframe>
+<video height=510 width=900 controls="controls" preload="none">
+      <source id="mp4" src="amWiki/videos/001/01-Week1/1-Welcome/1-welcome to ML.mp4" type="video/mp4">
+</video>
 ## 中文
 什么是机器学习?  
 你可能每天使用它几十次但是却不知道它。下面通过例子让大家更直观的感受什么是机器学习：  

@@ -1,7 +1,8 @@
 # 线性代数复习-矩阵和矩阵乘法
 ## 视频
-<iframe height=510 width=900 src="https://d18ky98rnyall9.cloudfront.net/03.4-V2-LinearAlgebraReview%28Optional%29-MatrixMatrixMultiplication.0db57090b22b11e4bb7e93e7536260ed/full/540p/index.webm?Expires=1497916800&Signature=ENyYehvG1HHuexEi2YWW-St4UyuGlLJFAxf15iX4pjawKHwXOMfWn8gW0SVQY-wggEQTbYzIPuVkQxQ5UmJOUmLr7puO06bYf9~dLS6w2TQpVHOcLF3NBW5Ja9X5i4eDAupsA8ohbaKCaK2xGDcI0u7sD-c3ijSc-t-BXdHJoQw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"></iframe>
-
+<video height=510 width=900 controls="controls" preload="none">
+      <source src="amWiki/videos/001/01-Week1/5-Linear Algebra Review/4-Matrix Matrix Multiplication.mp4" type="video/mp4">
+</video>
 ## 中文
 ### 矩阵和矩阵乘法
 ![矩阵和矩阵乘法](amWiki/images/001/01-Week1/5-Linear Algebra Review/18-举例说明矩阵和矩阵乘法.jpg)

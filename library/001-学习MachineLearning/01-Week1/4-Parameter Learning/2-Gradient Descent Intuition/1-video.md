@@ -1,7 +1,8 @@
 # 梯度下降直观感受
 ## 视频
-<iframe height=510 width=900 src="https://d3c33hcgiwev3.cloudfront.net/02.6-V2-LinearRegressionWithOneVariable-GradientDescentIntuition.c2de3d80b22b11e4960bf70a8782e569/full/540p/index.webm?Expires=1497744000&Signature=By9j0apdhF1LT~8CJni7LIJgSs8MfcoCeL3cZx9Dy2vg0aDOu2fzR6ATMo1cLSbBkzV8ui0Nf~jteJM474Ipk2Np19-GUbFjJhbQDKs41BT-HrgtMYh6GEDNFgpfwvG8q5GVjkHhICB1amVumxivuMmJYSqDvK7Pa37yAoou-Ks_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"></iframe>
-
+<video height=510 width=900 controls="controls" preload="none">
+      <source src="amWiki/videos/001/01-Week1/4-Parameter Learning/2-Gradient Descent_1.mp4" type="video/mp4">
+</video>
 ## 中文
 ### 理解梯度下降算法中的微分项
 ![理解梯度下降算法中的微分项](amWiki/images/001/01-Week1/4-Parameter Learning/7_理解梯度下降算法中的微分项.jpg)

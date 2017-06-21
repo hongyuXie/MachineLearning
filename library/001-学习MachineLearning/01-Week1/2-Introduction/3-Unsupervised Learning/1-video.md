@@ -1,6 +1,8 @@
 # 非监督学习
 ## 视频
-<iframe height=510 width=900 src="https://d3c33hcgiwev3.cloudfront.net/01.4-V2-Introduction-UnsupervisedLearning-FairUse.8f251df0b23611e4af4203f82f647410/full/540p/index.webm?Expires=1497657600&Signature=cgy7sBQkMxLRrHbRq-gVs4VZ5Sjr3URFsglQHmqH0nsYruHsyN6ftC~NxaxZxdfbsZgjPYoHBHSWi-rtl-Sk3yiMshR6AvQTsSZEk60I9jrF9lC4RXIfRBj4bWPiB46I9mSFqQZ2PCs4cb5b0889SIiQpPqG8Xf7wei7volq2q0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"></iframe>
+<video height=510 width=900 controls="controls" preload="none">
+      <source src="amWiki/videos/001/01-Week1/2-Introduciton/4-Unsupervised Learning.mp4" type="video/mp4">
+</video>
 ## 中文
 ### 监督学习样本数据集【有标记】
 ![监督学习样本数据集【有标记】](amWiki/images/001/01-Week1/2-Introduciton/6-监督学习数据集_有标记.png)

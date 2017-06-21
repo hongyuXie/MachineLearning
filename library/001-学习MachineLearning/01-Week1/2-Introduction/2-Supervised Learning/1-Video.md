@@ -1,6 +1,8 @@
 # 监督学习
 ## 视频
-<iframe height=510 width=900 src="https://d3c33hcgiwev3.cloudfront.net/01.3-V2-Introduction-SupervisedLearning.d4483f80b22b11e4aca907c8d9623f2b/full/540p/index.webm?Expires=1497744000&Signature=lJvlHT4IKWMOjW1ASLOFrbz8tGMOhFvjd~p~2lyLNhveuLtn7EZFWcBDcyv9y-L9jX9w6h-LHNGOYwsTH5HuiyhxSsc9umm1x6L7XhOx7hiLyaDeM9sKTOo9mMjYtm9i9nDttQFOxYm3NjstAuh55O-vhkO03dWu64SHKPDE3NI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"></iframe>
+<video height=510 width=900 controls="controls" preload="none">
+      <source src="amWiki/videos/001/01-Week1/2-Introduciton/3-Supervised Learning.mp4" type="video/mp4">
+</video>
 ## 中文
 在本视频中，我将介绍一种也许是最常见的机器学习问题。 即监督学习。后面将给出监督学习更正式的定义， 现在最好以示例来说明什么是监督学习。 之后再给出正式的定义。
 ### 预测房价

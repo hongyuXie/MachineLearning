@@ -1,7 +1,8 @@
 # 线性代数复习-矩阵和向量
 ## 视频
-<iframe height=510 width=900 src="https://d18ky98rnyall9.cloudfront.net/03.2-V2-LinearAlgebraReview%28Optional%29-AdditionAndScalarMultiplication.0c7f88a0b22b11e4960bf70a8782e569/full/540p/index.webm?Expires=1497916800&Signature=PveYuOA7GJMPV30TmYmdK5-FnqVPNdQl-LNZWfjHyMTqpMi79mpTm1pHJfzcqA4UJXaG-1A8KRfsePWnjN-MAvp50XMxJIecgIydyMuQ74CbAhEewGs-LtPLMwcE3veyF51ZfOmLXneF-pB6Br7cpRE8RAIMb6MMOOqjqVoP0Zg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"></iframe>
-
+<video height=510 width=900 controls="controls" preload="none">
+      <source src="amWiki/videos/001/01-Week1/5-Linear Algebra Review/2-Addition and Scalar Multiplication.mp4" type="video/mp4">
+</video>
 ## 中文
 在这段视频中 我们要讲 我们将讨论矩阵的加法和减法运算 以及如何进行 数和矩阵的乘法 也就是标量乘法
 ### 矩阵的加法

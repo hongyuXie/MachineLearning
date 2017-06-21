@@ -1,7 +1,8 @@
 # 梯度下降算法应用于线性回归问题
 ## 视频
-<iframe height=510 width=900 src="https://d3c33hcgiwev3.cloudfront.net/02.7-V2-LinearRegressionWithOneVariable-GradientDescentForLinearRegression.c6037250b22b11e498c1339642deb798/full/540p/index.mp4?Expires=1497830400&Signature=NCXodi-yy0xjsfKjN80y4vpMOIzGQ4PmwgBB1PjqWBqPENt~eHjRJNN77uxSguwHnQx6U75ehNd8Uy-QNLTB2jWtILH2tTMM2CwEbTBblFv2VhFbVOQpKAPVN2kIYHN6Xcv6l7d07f5IMCbr~fZuTVIDUZD0SUTRdw7D~9J0tuA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"></iframe>
-
+<video height=510 width=900 controls="controls" preload="none">
+      <source src="amWiki/videos/001/01-Week1/4-Parameter Learning/3-Gradient Descent For Linear Regression.mp4" type="video/mp4">
+</video>
 ## 中文
 ### 梯度下降算法与线性回归问题结合
 ![梯度下降算法与线性回归问题结合](amWiki/images/001/01-Week1/4-Parameter Learning/16_梯度下降算法与线性回归问题结合.jpg)

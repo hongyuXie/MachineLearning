@@ -1,6 +1,8 @@
 # 梯度下降
 ## 视频
-<iframe height=510 width=900 src="https://d3c33hcgiwev3.cloudfront.net/02.5-V2-LinearRegressionWithOneVariable-GradientDescent.c89f04c0b22b11e4964ea1de90934151/full/540p/index.webm?Expires=1497744000&Signature=dW4Hg3grlVCeDd7lkfywLDGy6hege8XdekgNI3HNSs2Ki58SpsDa7vLwgmGNN~K4-Wn03ylDiXFe~5Oz-nudR7NSUbuZGzbU6fpDpksV3I3YSZkwR1GZ6aCUoQHfeZUErg1eh6Yjziem9Oz2h-JGYh86rFoXrs3YhvpYA5oKvw8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"></iframe>
+<video height=510 width=900 controls="controls" preload="none">
+      <source src="amWiki/videos/001/01-Week1/4-Parameter Learning/1-Gradient Descent.mp4" type="video/mp4">
+</video>
 ## 中文
 ### 梯度下降算法
 ![梯度下降算法](amWiki/images/001/01-Week1/4-Parameter Learning/1_梯度下降算法.jpg)

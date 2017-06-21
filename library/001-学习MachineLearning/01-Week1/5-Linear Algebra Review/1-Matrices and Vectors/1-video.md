@@ -1,7 +1,8 @@
 # 线性代数复习-矩阵和向量
 ## 视频
-<iframe height=510 width=900 src="https://d18ky98rnyall9.cloudfront.net/03.1-V2-LinearAlgebraReview%28Optional%29-MatricesAndVectors.3248b0c0b22b11e4901abd97e8288176/full/540p/index.webm?Expires=1497916800&Signature=C-n1-Px3Aty8cZICIzNjkV3KxRGeDC4yd6QQgDBJ1NvjSVDgzBwO8GoxYqdcGhSs-W4C2z1cjtdczHywepr-RhYdknVanb3IiyVyuSiIzd~-TknTjw4W4-gNR4o6V-ihgRYGEuzWaGSQiA~bxFgdoBqX4G08EJZG~8xXVNXXILU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"></iframe>
-
+<video height=510 width=900 controls="controls" preload="none">
+      <source src="amWiki/videos/001/01-Week1/5-Linear Algebra Review/1-Matrices and Vectors.mp4" type="video/mp4">
+</video>
 ## 中文
 我们先复习一下线性代数的知识 在这段视频中 我会向大家介绍矩阵和向量的概念
 ### 矩阵
