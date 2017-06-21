@@ -90,16 +90,55 @@
                 - [阅读材料](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/1-Environment Setup Instructions/1-Setting Up Your Programg Assignment Environment/1-阅读材料 "阅读材料")
             - **Installing Octave on Windows**
                 - [阅读材料](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/1-Environment Setup Instructions/3-Installing Octave on Windows/1-阅读材料 "阅读材料")
-- [如何开始一个新amWiki轻文库](?file=001-学习MachineLearning/100-如何开始一个新amWiki轻文库 "如何开始一个新amWiki轻文库")
-- [amWiki转接到任意域名进行接口测试](?file=001-学习MachineLearning/101-amWiki转接到任意域名进行接口测试 "amWiki转接到任意域名进行接口测试")
-- [如何编辑amWiki轻文库](?file=001-学习MachineLearning/102-如何编辑amWiki轻文库 "如何编辑amWiki轻文库")
-- [使用测试模块测试接口](?file=001-学习MachineLearning/103-使用测试模块测试接口 "使用测试模块测试接口")
-- **学习markdown**
-    - [Markdown快速开始](?file=001-学习MachineLearning/99-学习markdown/01-Markdown快速开始 "Markdown快速开始")
-    - [amWiki与语法高亮](?file=001-学习MachineLearning/99-学习markdown/02-amWiki与语法高亮 "amWiki与语法高亮")
-    - [amWiki与流程图](?file=001-学习MachineLearning/99-学习markdown/03-amWiki与流程图 "amWiki与流程图")
-    - [Atom对Markdown的原生支持](?file=001-学习MachineLearning/99-学习markdown/05-Atom对Markdown的原生支持 "Atom对Markdown的原生支持")
+        - **Multivariate Linear Regression**
+            - **Multiple Features**
+                - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/1-Multiple Features/1-video "video")
+            - **Gradient Descent for Multiple Variables**
+                - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/2-Gradient Descent for Multiple Variables/1-video "video")
+            - **Gradient Descent in Practice I - Feature Scaling**
+                - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/3-Gradient Descent in Practice I - Feature Scaling/1-video "video")
+            - **Gradient Descent in Practice II - Learning Rate**
+                - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/4-Gradient Descent in Practice II - Learning Rate/1-video "video")
+            - **Features and Polynomial Regression**
+                - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/5-Features and Polynomial Regression/1-video "video")
+        - **Computing Parameters Analytically**
+            - **Normal Equation**
+                - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/3-Computing Parameters Analytically/1-Normal Equation/1-video "video")
+            - **Normal Equation Noninvertibility**
+                - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/3-Computing Parameters Analytically/2-Normal Equation Noninvertibility/1-video "video")
+        - **Submitting Programg Assignments**
+            - **Workingon and Submitting Programg Assignments**
+                - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/4-Submitting Programg Assignments/1-Workingon and Submitting Programg Assignments/1-video "video")
+            - **Programg tips from Mentors**
+                - [阅读材料](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/4-Submitting Programg Assignments/2-Programg tips from Mentors/1-阅读材料 "阅读材料")
+        - **Review**
+            - **Lecture Slides**
+            - **Exam Linear Regression with Multiple Variables**
+    - **OctaveMatlab Tutorial OctaveMatlab**
+        - **OctaveMatlab Tutorial**
+            - **Basic Operations**
+            - **Moving Data Around**
+            - **Computing on Data**
+            - **Plotting Data**
+            - **Control Statements for, while, if statement**
+            - **Vectorization**
+        - **Review**
+            - **Lecture Slides**
+            - **Exam Octave_Matlab Tutorial**
+            - **CodingExam Linear Regression**
 
 ##### 文档示范
 - [通用API接口文档示例](?file=002-文档示范/001-通用API接口文档示例 "通用API接口文档示例")
 - [超长文档页内目录示例](?file=002-文档示范/002-超长文档页内目录示例 "超长文档页内目录示例")
+
+##### 学习markdown
+- [Markdown快速开始](?file=003-学习markdown/01-Markdown快速开始 "Markdown快速开始")
+- [Atom对Markdown的原生支持](?file=003-学习markdown/02-Atom对Markdown的原生支持 "Atom对Markdown的原生支持")
+
+##### 学习amWiki
+- [如何开始一个新amWiki轻文库](?file=004-学习amWiki/01-如何开始一个新amWiki轻文库 "如何开始一个新amWiki轻文库")
+- [amWiki与语法高亮](?file=004-学习amWiki/02-amWiki与语法高亮 "amWiki与语法高亮")
+- [amWiki与流程图](?file=004-学习amWiki/03-amWiki与流程图 "amWiki与流程图")
+- [如何编辑amWiki轻文库](?file=004-学习amWiki/04-如何编辑amWiki轻文库 "如何编辑amWiki轻文库")
+- [amWiki转接到任意域名进行接口测试](?file=004-学习amWiki/05-amWiki转接到任意域名进行接口测试 "amWiki转接到任意域名进行接口测试")
+- [使用测试模块测试接口](?file=004-学习amWiki/06-使用测试模块测试接口 "使用测试模块测试接口")
