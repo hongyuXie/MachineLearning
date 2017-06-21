@@ -93,10 +93,13 @@
         - **Multivariate Linear Regression**
             - **Multiple Features**
                 - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/1-Multiple Features/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/1-Multiple Features/2-阅读材料 "阅读材料")
             - **Gradient Descent for Multiple Variables**
                 - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/2-Gradient Descent for Multiple Variables/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/2-Gradient Descent for Multiple Variables/2-阅读材料 "阅读材料")
             - **Gradient Descent in Practice I - Feature Scaling**
                 - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/3-Gradient Descent in Practice I - Feature Scaling/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/3-Gradient Descent in Practice I - Feature Scaling/2-阅读材料 "阅读材料")
             - **Gradient Descent in Practice II - Learning Rate**
                 - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/4-Gradient Descent in Practice II - Learning Rate/1-video "video")
             - **Features and Polynomial Regression**
