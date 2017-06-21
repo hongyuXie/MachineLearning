@@ -16,6 +16,9 @@
 
 ** 总结一下就是：这个学习文档的构建是基于：Atom+amWiki(Markdown)+Mindjet+GitHub+TortoiseGit构建的！！期待你的加入，一起完善，造福大众！！**
 ** 当然了，我非常期待你们的加入哦！！
+## MachineLearning课程学习文档效果
+[[Learn MachineLearning By The Web Docs](https://hongyuxie.github.io)]
+
 ## 项目的GitHub地址
 [ [view this project on Github](https://github.com/hongyuXie/hongyuXie.github.io) ]  
 GitHub:  
@@ -25,6 +28,3 @@ GitHub:
 [![](https://img.shields.io/github/issues-raw/hongyuXie/hongyuXie.github.io.svg)](https://github.com/hongyuXie/hongyuXie.github.io  "GitHub Open Issues")
 [![](https://img.shields.io/github/issues-closed-raw/hongyuXie/hongyuXie.github.io.svg)](https://github.com/hongyuXie/hongyuXie.github.io "GitHub Closed Issues")
 [![](https://img.shields.io/github/contributors/hongyuXie/hongyuXie.github.io.svg)](https://github.com/hongyuXie/hongyuXie.github.io "GitHub Contributors")  
-
-## MachineLearning课程学习文档效果
-[[Learn MachineLearning By The Web Docs](https://hongyuxie.github.io)]
