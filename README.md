@@ -28,3 +28,11 @@ GitHub:
 [![](https://img.shields.io/github/issues-raw/hongyuXie/hongyuXie.github.io.svg)](https://github.com/hongyuXie/hongyuXie.github.io  "GitHub Open Issues")
 [![](https://img.shields.io/github/issues-closed-raw/hongyuXie/hongyuXie.github.io.svg)](https://github.com/hongyuXie/hongyuXie.github.io "GitHub Closed Issues")
 [![](https://img.shields.io/github/contributors/hongyuXie/hongyuXie.github.io.svg)](https://github.com/hongyuXie/hongyuXie.github.io "GitHub Contributors")  
+
+## 关于学习手册最终完成第一版日期
+按照我本人的学习和整理的进度计划，这门课程学习手册最终整理完善日期大约是：**2017年09月上旬**
+
+## 关于后续计划
+等到这个手册完善之后(也就是**2017年09月上旬**后)  
+- 第一个计划：由于本门课程所涉及的算法的实现都是是基于Octave/Matlab的，因此，后续会将这些算法用Java/Python重新实现一遍，并提交到该项目中。  
+- 第二个计划：深入研究一些深度学习/强化学习框架，于此平行的计划是参与Kaggle比赛，并将比赛所有过程和代码同步到该项目中。
