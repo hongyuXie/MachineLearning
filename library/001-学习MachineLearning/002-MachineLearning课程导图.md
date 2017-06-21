@@ -1,6 +1,6 @@
 # MachineLearning课程导图
 
-![MachineLearning课程导图](amWiki/images/001/Machine Learning.png "欢迎加入Machine Learning,Good Luck!")  
+![MachineLearning课程导图](amWiki/images/001/Machine Learning.png"欢迎加入Machine Learning,Good Luck!")  
 
 **说明**：想要加入MachineLearning学习的同学，可以完全按照此大纲开始。大纲按照周次来排列，方便大家了解每个知识点应该花费多少时间学。
 
