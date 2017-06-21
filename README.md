@@ -27,4 +27,4 @@ GitHub:
 [![](https://img.shields.io/github/contributors/hongyuXie/hongyuXie.github.io.svg)](https://github.com/hongyuXie/hongyuXie.github.io "GitHub Contributors")  
 
 ## MachineLearning课程学习文档效果
-[[view MachineLearning on Github](https://github.com/hongyuXie/hongyuXie.github.io)]
+[[Learn MachineLearning By The Web Docs](https://hongyuxie.github.io)]
