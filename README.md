@@ -1,4 +1,4 @@
-# 关于这个项目说明
+# 关于MachineLearning这个项目说明
 ![Robot logo](amWiki/images/logo.png)
 ## 关于构建这个学习文档构建所依赖的工具
 * Atom&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--编辑软件
