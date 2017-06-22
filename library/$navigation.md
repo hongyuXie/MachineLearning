@@ -102,13 +102,17 @@
                 - [阅读材料](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/3-Gradient Descent in Practice I - Feature Scaling/2-阅读材料 "阅读材料")
             - **Gradient Descent in Practice II - Learning Rate**
                 - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/4-Gradient Descent in Practice II - Learning Rate/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/4-Gradient Descent in Practice II - Learning Rate/2-阅读材料 "阅读材料")
             - **Features and Polynomial Regression**
                 - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/5-Features and Polynomial Regression/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/2-Multivariate Linear Regression/5-Features and Polynomial Regression/2-阅读材料 "阅读材料")
         - **Computing Parameters Analytically**
             - **Normal Equation**
                 - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/3-Computing Parameters Analytically/1-Normal Equation/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/3-Computing Parameters Analytically/1-Normal Equation/2-阅读材料 "阅读材料")
             - **Normal Equation Noninvertibility**
                 - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/3-Computing Parameters Analytically/2-Normal Equation Noninvertibility/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/3-Computing Parameters Analytically/2-Normal Equation Noninvertibility/2-阅读材料 "阅读材料")
         - **Submitting Programg Assignments**
             - **Workingon and Submitting Programg Assignments**
                 - [video](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/4-Submitting Programg Assignments/1-Workingon and Submitting Programg Assignments/1-video "video")
@@ -116,6 +120,7 @@
                 - [阅读材料](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/4-Submitting Programg Assignments/2-Programg tips from Mentors/1-阅读材料 "阅读材料")
         - **Review**
             - **Lecture Slides**
+                - [课程教案](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/5-Review/1-Lecture Slides/1-课程教案 "课程教案")
             - **Exam Linear Regression with Multiple Variables**
     - **OctaveMatlab Tutorial OctaveMatlab**
         - **OctaveMatlab Tutorial**
