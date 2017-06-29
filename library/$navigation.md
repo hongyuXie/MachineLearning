@@ -123,27 +123,27 @@
                 - [课程教案](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/5-Review/1-Lecture Slides/1-课程教案 "课程教案")
             - **Exam Linear Regression with Multiple Variables**
                 - [在线测试](?file=001-学习MachineLearning/02-Week2/1-Linear Regression with Multiple Variables/5-Review/2-Exam Linear Regression with Multiple Variables/1-在线测试 "在线测试")
-    - **OctaveMatlab Tutorial OctaveMatlab**
+    - **OctaveMatlab Tutorial**
         - **OctaveMatlab Tutorial**
             - **Basic Operations**
-                - [video](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial OctaveMatlab/1-OctaveMatlab Tutorial/1-Basic Operations/1-video "video")
+                - [video](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial/1-OctaveMatlab Tutorial/1-Basic Operations/1-video "video")
             - **Moving Data Around**
-                - [video](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial OctaveMatlab/1-OctaveMatlab Tutorial/2-Moving Data Around/1-video "video")
+                - [video](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial/1-OctaveMatlab Tutorial/2-Moving Data Around/1-video "video")
             - **Computing on Data**
-                - [video](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial OctaveMatlab/1-OctaveMatlab Tutorial/3-Computing on Data/1-video "video")
+                - [video](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial/1-OctaveMatlab Tutorial/3-Computing on Data/1-video "video")
             - **Plotting Data**
-                - [video](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial OctaveMatlab/1-OctaveMatlab Tutorial/4-Plotting Data/1-video "video")
+                - [video](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial/1-OctaveMatlab Tutorial/4-Plotting Data/1-video "video")
             - **Control Statements for, while, if statement**
-                - [video](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial OctaveMatlab/1-OctaveMatlab Tutorial/5-Control Statements for, while, if statement/1-video "video")
+                - [video](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial/1-OctaveMatlab Tutorial/5-Control Statements for, while, if statement/1-video "video")
             - **Vectorization**
-                - [video](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial OctaveMatlab/1-OctaveMatlab Tutorial/6-Vectorization/1-video "video")
+                - [video](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial/1-OctaveMatlab Tutorial/6-Vectorization/1-video "video")
         - **Review**
             - **Lecture Slides**
-                - [课程教案](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial OctaveMatlab/2-Review/1-Lecture Slides/1-课程教案 "课程教案")
+                - [课程教案](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial/2-Review/1-Lecture Slides/1-课程教案 "课程教案")
             - **Exam Octave_Matlab Tutorial**
-                - [在线测试](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial OctaveMatlab/2-Review/2-Exam Octave_Matlab Tutorial/1-在线测试 "在线测试")
+                - [在线测试](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial/2-Review/2-Exam Octave_Matlab Tutorial/1-在线测试 "在线测试")
             - **CodingExam Linear Regression**
-                - [在线测试_编程](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial OctaveMatlab/2-Review/3-CodingExam Linear Regression/1-在线测试_编程 "在线测试_编程")
+                - [在线测试_编程](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial/2-Review/3-CodingExam Linear Regression/1-在线测试_编程 "在线测试_编程")
 
 ##### 文档示范
 - [通用API接口文档示例](?file=002-文档示范/001-通用API接口文档示例 "通用API接口文档示例")
