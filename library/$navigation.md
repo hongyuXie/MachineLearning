@@ -144,6 +144,33 @@
                 - [在线测试](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial OctaveMatlab/2-Review/2-Exam Octave_Matlab Tutorial/1-在线测试 "在线测试")
             - **CodingExam Linear Regression**
                 - [在线测试_编程](?file=001-学习MachineLearning/02-Week2/2-OctaveMatlab Tutorial OctaveMatlab/2-Review/3-CodingExam Linear Regression/1-在线测试_编程 "在线测试_编程")
+- **Week3**
+    - **Logistic Regression**
+        - **Classification and Representation**
+            - **Classification**
+                - [video](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/1-Classification and Representation/1-Classification/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/1-Classification and Representation/1-Classification/2-阅读材料 "阅读材料")
+            - **Hypothesis Representation**
+            - **Decision Boundary**
+        - **Logistic Regression Model**
+            - **Cost Function**
+            - **Simplified Cost Function and Gradient Descent**
+            - **Advanced Optimization**
+        - **Multiclass Classification**
+            - **Multiclass Classification One-vs-all**
+        - **Review**
+            - **Lecture Slides**
+            - **Exam Logistic Regression**
+    - **Regularization**
+        - **Solving the Problem of Overfitting**
+            - **The Problem of Overfitting**
+            - **Cost Function**
+            - **Regularized Linear Regression**
+            - **Regularized Logistic Regression**
+        - **Review**
+            - **Lecture Slides**
+            - **Exam Regularization**
+            - **CodingExam Logistic Regression**
 
 ##### 文档示范
 - [通用API接口文档示例](?file=002-文档示范/001-通用API接口文档示例 "通用API接口文档示例")
