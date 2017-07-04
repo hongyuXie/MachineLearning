@@ -151,26 +151,51 @@
                 - [video](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/1-Classification and Representation/1-Classification/1-video "video")
                 - [阅读材料](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/1-Classification and Representation/1-Classification/2-阅读材料 "阅读材料")
             - **Hypothesis Representation**
+                - [video](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/1-Classification and Representation/2-Hypothesis Representation/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/1-Classification and Representation/2-Hypothesis Representation/2-阅读材料 "阅读材料")
             - **Decision Boundary**
+                - [video](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/1-Classification and Representation/3-Decision Boundary/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/1-Classification and Representation/3-Decision Boundary/2-阅读材料 "阅读材料")
         - **Logistic Regression Model**
             - **Cost Function**
+                - [video](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/2-Logistic Regression Model/1-Cost Function/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/2-Logistic Regression Model/1-Cost Function/2-阅读材料 "阅读材料")
             - **Simplified Cost Function and Gradient Descent**
+                - [video](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/2-Logistic Regression Model/2-Simplified Cost Function and Gradient Descent/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/2-Logistic Regression Model/2-Simplified Cost Function and Gradient Descent/2-阅读材料 "阅读材料")
             - **Advanced Optimization**
+                - [video](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/2-Logistic Regression Model/3-Advanced Optimization/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/2-Logistic Regression Model/3-Advanced Optimization/2-阅读材料 "阅读材料")
         - **Multiclass Classification**
             - **Multiclass Classification One-vs-all**
+                - [video](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/3-Multiclass Classification/1-Multiclass Classification One-vs-all/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/3-Multiclass Classification/1-Multiclass Classification One-vs-all/2-阅读材料 "阅读材料")
         - **Review**
             - **Lecture Slides**
+                - [课程教案](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/4-Review/1-Lecture Slides/1-课程教案 "课程教案")
             - **Exam Logistic Regression**
+                - [在线测试](?file=001-学习MachineLearning/03-Week3/1-Logistic Regression/4-Review/2-Exam Logistic Regression/1-在线测试 "在线测试")
     - **Regularization**
         - **Solving the Problem of Overfitting**
             - **The Problem of Overfitting**
+                - [video](?file=001-学习MachineLearning/03-Week3/2-Regularization/1-Solving the Problem of Overfitting/1-The Problem of Overfitting/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/03-Week3/2-Regularization/1-Solving the Problem of Overfitting/1-The Problem of Overfitting/2-阅读材料 "阅读材料")
             - **Cost Function**
+                - [video](?file=001-学习MachineLearning/03-Week3/2-Regularization/1-Solving the Problem of Overfitting/2-Cost Function/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/03-Week3/2-Regularization/1-Solving the Problem of Overfitting/2-Cost Function/2-阅读材料 "阅读材料")
             - **Regularized Linear Regression**
+                - [video](?file=001-学习MachineLearning/03-Week3/2-Regularization/1-Solving the Problem of Overfitting/3-Regularized Linear Regression/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/03-Week3/2-Regularization/1-Solving the Problem of Overfitting/3-Regularized Linear Regression/2-阅读材料 "阅读材料")
             - **Regularized Logistic Regression**
+                - [video](?file=001-学习MachineLearning/03-Week3/2-Regularization/1-Solving the Problem of Overfitting/4-Regularized Logistic Regression/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/03-Week3/2-Regularization/1-Solving the Problem of Overfitting/4-Regularized Logistic Regression/2-阅读材料 "阅读材料")
         - **Review**
             - **Lecture Slides**
+                - [课程教案](?file=001-学习MachineLearning/03-Week3/2-Regularization/2-Review/1-Lecture Slides/1-课程教案 "课程教案")
             - **Exam Regularization**
+                - [在线测试](?file=001-学习MachineLearning/03-Week3/2-Regularization/2-Review/2-Exam Regularization/1-在线测试 "在线测试")
             - **CodingExam Logistic Regression**
+                - [在线测试_编程](?file=001-学习MachineLearning/03-Week3/2-Regularization/2-Review/3-CodingExam Logistic Regression/1-在线测试_编程 "在线测试_编程")
 
 ##### 文档示范
 - [通用API接口文档示例](?file=002-文档示范/001-通用API接口文档示例 "通用API接口文档示例")
