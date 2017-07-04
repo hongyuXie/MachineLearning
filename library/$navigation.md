@@ -196,6 +196,21 @@
                 - [在线测试](?file=001-学习MachineLearning/03-Week3/2-Regularization/2-Review/2-Exam Regularization/1-在线测试 "在线测试")
             - **CodingExam Logistic Regression**
                 - [在线测试_编程](?file=001-学习MachineLearning/03-Week3/2-Regularization/2-Review/3-CodingExam Logistic Regression/1-在线测试_编程 "在线测试_编程")
+- **Week4**
+    - **Neural Networks Representation**
+        - **Motivations**
+            - **Non-linear Hypotheses**
+            - **Neurons and the Brain**
+                - [video](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/1-Motivations/2-Neurons and the Brain/1-video "video")
+        - **Neural Networks**
+            - **Model Representation**
+        - **Applications**
+            - **Examples and Intuitions**
+            - **Multiclass Classification**
+        - **Review**
+            - **Lecture Slides**
+            - **Exam Neural Networks Representation**
+            - **CodingExam Multi-class Classification and Neural Networks**
 
 ##### 文档示范
 - [通用API接口文档示例](?file=002-文档示范/001-通用API接口文档示例 "通用API接口文档示例")
