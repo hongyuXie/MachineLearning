@@ -200,17 +200,31 @@
     - **Neural Networks Representation**
         - **Motivations**
             - **Non-linear Hypotheses**
+                - [video](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/1-Motivations/1-Non-linear Hypotheses/1-video "video")
             - **Neurons and the Brain**
                 - [video](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/1-Motivations/2-Neurons and the Brain/1-video "video")
         - **Neural Networks**
             - **Model Representation**
+                - [video](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/2-Neural Networks/1-Model Representation/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/2-Neural Networks/1-Model Representation/2-阅读材料 "阅读材料")
+                - [video](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/2-Neural Networks/1-Model Representation/3-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/2-Neural Networks/1-Model Representation/4-阅读材料 "阅读材料")
         - **Applications**
             - **Examples and Intuitions**
+                - [video](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/3-Applications/1-Examples and Intuitions/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/3-Applications/1-Examples and Intuitions/2-阅读材料 "阅读材料")
+                - [video](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/3-Applications/1-Examples and Intuitions/3-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/3-Applications/1-Examples and Intuitions/4-阅读材料 "阅读材料")
             - **Multiclass Classification**
+                - [video](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/3-Applications/2-Multiclass Classification/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/3-Applications/2-Multiclass Classification/2-阅读材料 "阅读材料")
         - **Review**
             - **Lecture Slides**
+                - [课程教案](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/4-Review/1-Lecture Slides/1-课程教案 "课程教案")
             - **Exam Neural Networks Representation**
+                - [在线测试](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/4-Review/2-Exam Neural Networks Representation/1-在线测试 "在线测试")
             - **CodingExam Multi-class Classification and Neural Networks**
+                - [在线测试_编程](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/4-Review/3-CodingExam Multi-class Classification and Neural Networks/1-在线测试_编程 "在线测试_编程")
 
 ##### 文档示范
 - [通用API接口文档示例](?file=002-文档示范/001-通用API接口文档示例 "通用API接口文档示例")
