@@ -225,6 +225,24 @@
                 - [在线测试](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/4-Review/2-Exam Neural Networks Representation/1-在线测试 "在线测试")
             - **CodingExam Multi-class Classification and Neural Networks**
                 - [在线测试_编程](?file=001-学习MachineLearning/04-Week4/1-Neural Networks Representation/4-Review/3-CodingExam Multi-class Classification and Neural Networks/1-在线测试_编程 "在线测试_编程")
+- **Week5**
+    - **Neural Networks Learning**
+        - **Cost Function and Backpropagation**
+            - **Cost Function**
+                - [video](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/1-Cost Function and Backpropagation/1-Cost Function/1-video "video")
+            - **Backpropagation Algorithm**
+            - **Backpropagation Intuition**
+        - **Backpropagation in Practice**
+            - **Implementation Note Unrolling Parameters**
+            - **Gradient Checking**
+            - **Random Initialization**
+            - **Putting It Together**
+        - **Application of Neural Networks**
+            - **Autonomous Driving**
+        - **Review**
+            - **Lecture Slides**
+            - **Exam Neural Networks Learning**
+            - **CodingExam Neural Network Learning**
 
 ##### 文档示范
 - [通用API接口文档示例](?file=002-文档示范/001-通用API接口文档示例 "通用API接口文档示例")
