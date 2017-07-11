@@ -1,2 +1,2 @@
-*.md linguist-language=Octave
 *.js linguist-language=Matlab
+*.md linguist-language=Octave
