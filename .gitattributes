@@ -1,3 +1,4 @@
 *.js linguist-language=Octave/Matlab
 *.css linguist-language=Octave/Matlab
 *.html linguist-language=Octave/Matlab
+*.* linguist-language=Octave/Matlab
