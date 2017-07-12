@@ -230,19 +230,36 @@
         - **Cost Function and Backpropagation**
             - **Cost Function**
                 - [video](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/1-Cost Function and Backpropagation/1-Cost Function/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/1-Cost Function and Backpropagation/1-Cost Function/2-阅读材料 "阅读材料")
             - **Backpropagation Algorithm**
+                - [video](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/1-Cost Function and Backpropagation/2-Backpropagation Algorithm/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/1-Cost Function and Backpropagation/2-Backpropagation Algorithm/2-阅读材料 "阅读材料")
             - **Backpropagation Intuition**
+                - [video](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/1-Cost Function and Backpropagation/3-Backpropagation Intuition/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/1-Cost Function and Backpropagation/3-Backpropagation Intuition/2-阅读材料 "阅读材料")
         - **Backpropagation in Practice**
             - **Implementation Note Unrolling Parameters**
+                - [video](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/2-Backpropagation in Practice/1-Implementation Note Unrolling Parameters/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/2-Backpropagation in Practice/1-Implementation Note Unrolling Parameters/2-阅读材料 "阅读材料")
             - **Gradient Checking**
+                - [video](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/2-Backpropagation in Practice/2-Gradient Checking/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/2-Backpropagation in Practice/2-Gradient Checking/2-阅读材料 "阅读材料")
             - **Random Initialization**
+                - [video](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/2-Backpropagation in Practice/3-Random Initialization/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/2-Backpropagation in Practice/3-Random Initialization/2-阅读材料 "阅读材料")
             - **Putting It Together**
+                - [video](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/2-Backpropagation in Practice/4-Putting It Together/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/2-Backpropagation in Practice/4-Putting It Together/2-阅读材料 "阅读材料")
         - **Application of Neural Networks**
             - **Autonomous Driving**
+                - [video](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/3-Application of Neural Networks/1-Autonomous Driving/1-video "video")
         - **Review**
             - **Lecture Slides**
+                - [课程教案](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/4-Review/1-Lecture Slides/1-课程教案 "课程教案")
             - **Exam Neural Networks Learning**
+                - [在线测试](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/4-Review/2-Exam Neural Networks Learning/1-在线测试 "在线测试")
             - **CodingExam Neural Network Learning**
+                - [在线测试_编程](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/4-Review/3-CodingExam Neural Network Learning/1-在线测试_编程 "在线测试_编程")
 
 ##### 文档示范
 - [通用API接口文档示例](?file=002-文档示范/001-通用API接口文档示例 "通用API接口文档示例")
