@@ -260,6 +260,34 @@
                 - [在线测试](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/4-Review/2-Exam Neural Networks Learning/1-在线测试 "在线测试")
             - **CodingExam Neural Network Learning**
                 - [在线测试_编程](?file=001-学习MachineLearning/05-Week5/1-Neural Networks Learning/4-Review/3-CodingExam Neural Network Learning/1-在线测试_编程 "在线测试_编程")
+- **Week6**
+    - **Advice for Applying Machine Learning**
+        - **Evaluating a Learning Algorithm**
+            - **Deciding What to Try Next**
+                - [video](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/1-Evaluating a Learning Algorithm/1-Deciding What to Try Next/1-video "video")
+            - **Evaluating a Hypothesis**
+            - **Model Selection and Train_Validation_Test Sets**
+        - **Bias vs. Variance**
+            - **Diagnosing Bias vs. Variance**
+            - **Regularization and Bias_Variance**
+            - **Learning Curves**
+            - **Deciding What to Do Next Revisited**
+        - **Review**
+            - **Lecture Slides**
+            - **Exam Advice for Applying Machine Learning**
+            - **CodingExam Regularized Linear Regression and Bias_Variance**
+    - **Machine Learning System Design**
+        - **Building a Spam Classifier**
+            - **Prioritizing What to Work On**
+            - **Error Analysis**
+        - **Handling Skewed Data**
+            - **Error Metrics for Skewed Classes**
+            - **Trading Off Precision and Recall**
+        - **Using Large Data Sets**
+            - **Data For Machine Learning**
+        - **Review**
+            - **Lecture Slides**
+            - **Exam Machine Learning System Design**
 
 ##### 文档示范
 - [通用API接口文档示例](?file=002-文档示范/001-通用API接口文档示例 "通用API接口文档示例")
