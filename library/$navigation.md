@@ -290,7 +290,7 @@
             - **Exam Advice for Applying Machine Learning**
                 - [在线测试](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/3-Review/2-Exam Advice for Applying Machine Learning/1-在线测试 "在线测试")
             - **CodingExam Regularized Linear Regression and Bias_Variance**
-                - [在线测试_编程](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/3-Review/3-CodingExam Regularized Linear Regression and Bias_Variance/1-在线测试_编程 "在线测试_编程")
+                - [在线测试](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/3-Review/3-CodingExam Regularized Linear Regression and Bias_Variance/1-在线测试 "在线测试")
     - **Machine Learning System Design**
         - **Building a Spam Classifier**
             - **Prioritizing What to Work On**
