@@ -266,28 +266,52 @@
             - **Deciding What to Try Next**
                 - [video](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/1-Evaluating a Learning Algorithm/1-Deciding What to Try Next/1-video "video")
             - **Evaluating a Hypothesis**
+                - [video](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/1-Evaluating a Learning Algorithm/2-Evaluating a Hypothesis/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/1-Evaluating a Learning Algorithm/2-Evaluating a Hypothesis/2-阅读材料 "阅读材料")
             - **Model Selection and Train_Validation_Test Sets**
+                - [video](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/1-Evaluating a Learning Algorithm/3-Model Selection and Train_Validation_Test Sets/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/1-Evaluating a Learning Algorithm/3-Model Selection and Train_Validation_Test Sets/2-阅读材料 "阅读材料")
         - **Bias vs. Variance**
             - **Diagnosing Bias vs. Variance**
+                - [video](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/2-Bias vs. Variance/1-Diagnosing Bias vs. Variance/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/2-Bias vs. Variance/1-Diagnosing Bias vs. Variance/2-阅读材料 "阅读材料")
             - **Regularization and Bias_Variance**
+                - [video](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/2-Bias vs. Variance/2-Regularization and Bias_Variance/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/2-Bias vs. Variance/2-Regularization and Bias_Variance/2-阅读材料 "阅读材料")
             - **Learning Curves**
+                - [video](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/2-Bias vs. Variance/3-Learning Curves/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/2-Bias vs. Variance/3-Learning Curves/2-阅读材料 "阅读材料")
             - **Deciding What to Do Next Revisited**
+                - [video](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/2-Bias vs. Variance/4-Deciding What to Do Next Revisited/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/2-Bias vs. Variance/4-Deciding What to Do Next Revisited/2-阅读材料 "阅读材料")
         - **Review**
             - **Lecture Slides**
+                - [课程教案](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/3-Review/1-Lecture Slides/1-课程教案 "课程教案")
             - **Exam Advice for Applying Machine Learning**
+                - [在线测试](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/3-Review/2-Exam Advice for Applying Machine Learning/1-在线测试 "在线测试")
             - **CodingExam Regularized Linear Regression and Bias_Variance**
+                - [在线测试](?file=001-学习MachineLearning/06-Week6/1-Advice for Applying Machine Learning/3-Review/3-CodingExam Regularized Linear Regression and Bias_Variance/1-在线测试 "在线测试")
     - **Machine Learning System Design**
         - **Building a Spam Classifier**
             - **Prioritizing What to Work On**
+                - [video](?file=001-学习MachineLearning/06-Week6/2-Machine Learning System Design/1-Building a Spam Classifier/1-Prioritizing What to Work On/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/06-Week6/2-Machine Learning System Design/1-Building a Spam Classifier/1-Prioritizing What to Work On/2-阅读材料 "阅读材料")
             - **Error Analysis**
+                - [video](?file=001-学习MachineLearning/06-Week6/2-Machine Learning System Design/1-Building a Spam Classifier/2-Error Analysis/1-video "video")
+                - [阅读材料](?file=001-学习MachineLearning/06-Week6/2-Machine Learning System Design/1-Building a Spam Classifier/2-Error Analysis/2-阅读材料 "阅读材料")
         - **Handling Skewed Data**
             - **Error Metrics for Skewed Classes**
+                - [video](?file=001-学习MachineLearning/06-Week6/2-Machine Learning System Design/2-Handling Skewed Data/1-Error Metrics for Skewed Classes/1-video "video")
             - **Trading Off Precision and Recall**
+                - [video](?file=001-学习MachineLearning/06-Week6/2-Machine Learning System Design/2-Handling Skewed Data/2-Trading Off Precision and Recall/1-video "video")
         - **Using Large Data Sets**
             - **Data For Machine Learning**
+                - [video](?file=001-学习MachineLearning/06-Week6/2-Machine Learning System Design/3-Using Large Data Sets/1-Data For Machine Learning/1-video "video")
         - **Review**
             - **Lecture Slides**
+                - [课程教案](?file=001-学习MachineLearning/06-Week6/2-Machine Learning System Design/4-Review/1-Lecture Slides/1-课程教案 "课程教案")
             - **Exam Machine Learning System Design**
+                - [在线测试](?file=001-学习MachineLearning/06-Week6/2-Machine Learning System Design/4-Review/2-Exam Machine Learning System Design/1-在线测试 "在线测试")
 
 ##### 文档示范
 - [通用API接口文档示例](?file=002-文档示范/001-通用API接口文档示例 "通用API接口文档示例")
