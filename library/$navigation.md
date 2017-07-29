@@ -312,6 +312,21 @@
                 - [课程教案](?file=001-学习MachineLearning/06-Week6/2-Machine Learning System Design/4-Review/1-Lecture Slides/1-课程教案 "课程教案")
             - **Exam Machine Learning System Design**
                 - [在线测试](?file=001-学习MachineLearning/06-Week6/2-Machine Learning System Design/4-Review/2-Exam Machine Learning System Design/1-在线测试 "在线测试")
+- **Week7**
+    - **Support Vector Machines**
+        - **Large Margin Classification**
+            - **Optimization Objective**
+                - [video](?file=001-学习MachineLearning/07-Week7/1-Support Vector Machines/1-Large Margin Classification/1-Optimization Objective/1-video "video")
+            - **Large Margin Intuition**
+            - **Mathematics Behind Large Margin Classification**
+        - **Kernels**
+            - **Kernels**
+        - **SVMs in Practice**
+            - **Using An SVM**
+        - **Review**
+            - **Lecture Slides**
+            - **Exam Support Vector Machines**
+            - **CodingExam Support Vector Machines**
 
 ##### 文档示范
 - [通用API接口文档示例](?file=002-文档示范/001-通用API接口文档示例 "通用API接口文档示例")
