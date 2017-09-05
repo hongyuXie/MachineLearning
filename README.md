@@ -1,5 +1,5 @@
 # 先秀一下本人机器学习资格认证证书，让大家可以放心Follow
-![Machine Learning Qualification Certificate](amWiki/images/logo.png)
+![Machine Learning Qualification Certificate](amWiki/images/Machine_Learning_Certificate.png)
 # 关于MachineLearning这个项目说明
 ![Robot logo](amWiki/images/logo.png)
 ## 关于构建这个学习文档构建所依赖的工具
