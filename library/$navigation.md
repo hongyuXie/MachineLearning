@@ -318,15 +318,45 @@
             - **Optimization Objective**
                 - [video](?file=001-学习MachineLearning/07-Week7/1-Support Vector Machines/1-Large Margin Classification/1-Optimization Objective/1-video "video")
             - **Large Margin Intuition**
+                - [video](?file=001-学习MachineLearning/07-Week7/1-Support Vector Machines/1-Large Margin Classification/2-Large Margin Intuition/1-video "video")
             - **Mathematics Behind Large Margin Classification**
+                - [video](?file=001-学习MachineLearning/07-Week7/1-Support Vector Machines/1-Large Margin Classification/3-Mathematics Behind Large Margin Classification/1-video "video")
         - **Kernels**
             - **Kernels**
+                - [video](?file=001-学习MachineLearning/07-Week7/1-Support Vector Machines/2-Kernels/1-Kernels/1-video "video")
+                - [video](?file=001-学习MachineLearning/07-Week7/1-Support Vector Machines/2-Kernels/1-Kernels/2-video "video")
         - **SVMs in Practice**
             - **Using An SVM**
         - **Review**
             - **Lecture Slides**
             - **Exam Support Vector Machines**
             - **CodingExam Support Vector Machines**
+- **Week8**
+    - **Unsupervised Learning**
+        - **Clustering**
+            - **Unsupervised Learning Introduction**
+            - **K-Means Algorithm1**
+            - **Optimization Objective**
+            - **Random Initialization**
+            - **Choosing the Number of Clusters**
+        - **Review**
+            - **Lecture Slides**
+            - **Exam Unsupervised Learning**
+    - **Dimensionality Reduction**
+        - **Motivation**
+            - **Motivation I Data Compression**
+            - **Motivation II Visualization**
+        - **Principal Component Analysis**
+            - **Principal Component Analysis Problem Formulation**
+            - **Principal Component Analysis Algorithm**
+        - **Applying PCA**
+            - **Reconstruction from Compressed Representation**
+            - **Choosing the Number of Principal Components**
+            - **Advice for Applying PCA**
+        - **Review**
+            - **Lecture Slides**
+            - **Exam Principal Component Analysis**
+            - **CodingExam K-Means Clustering and PCA**
 
 ##### 文档示范
 - [通用API接口文档示例](?file=002-文档示范/001-通用API接口文档示例 "通用API接口文档示例")
@@ -343,3 +373,25 @@
 - [如何编辑amWiki轻文库](?file=004-学习amWiki/04-如何编辑amWiki轻文库 "如何编辑amWiki轻文库")
 - [amWiki转接到任意域名进行接口测试](?file=004-学习amWiki/05-amWiki转接到任意域名进行接口测试 "amWiki转接到任意域名进行接口测试")
 - [使用测试模块测试接口](?file=004-学习amWiki/06-使用测试模块测试接口 "使用测试模块测试接口")
+
+##### 学习DeepLearning
+- **Neural Networks and Deep Learning**
+    - **Week1**
+        - **Welcome to the Deep Learning Specialization**
+        - **Introduction to Deep Learning**
+        - **Practice Questions**
+    - **Week2**
+        - **Logistic Regression as a Neural Network**
+        - **Python and Vectorization**
+        - **Practice Questions**
+        - **Programming Assignments**
+        - **Heroes of Deep Learning (Optional)**
+    - **Week3**
+    - **Week4**
+- **Improving Deep Neural Networks Hyperparameter tuning Regularization and Optimization**
+- **Structuring Machine Learning Projects**
+- **Convolutional Neural Networks**
+- **Sequence Models**
+
+##### 试讲
+- [Java技术试讲](?file=006-试讲/001-Java技术试讲 "Java技术试讲")

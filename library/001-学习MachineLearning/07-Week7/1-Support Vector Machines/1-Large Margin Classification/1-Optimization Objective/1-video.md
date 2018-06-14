@@ -17,7 +17,7 @@
 ![SVM支持向量机假设函数](amWiki/images/001/07-Week7/1-Support Vector Machines/4-SVM支持向量机假设函数.jpg)   
 最后 有别于逻辑回归 有别于逻辑回归 输出的概率 在这里 我们的代价函数 当最小化代价函数 获得参数θ时 支持向量机所做的是 它来直接预测 y的值等于1 还是等于0 因此 这个假设函数 会预测1 当 θ^T*x 大于 或者等于0时 或者等于0时 所以学习 参数 θ 就是支持向量机假设函数的形式 那么 这就是 支持向量机 数学上的定义 再接下来的视频中 让我们再回去 从直观的角度看看优化目标 实际上是在做什么 以及 SVM 的假设函数 将会学习什么 同时 也会谈谈 如何 做些许修改 学习更加复杂、非线性的函数
 ### 内置习题
-![内置习题_理解在拥有大数据量训练集下获得良好的学习算法先决条件](amWiki/images/001/07-Week7/1-Support Vector Machines/5-内置习题_区别逻辑回归和SVM代价函数形式.jpg)  
+![内置习题_区别逻辑回归和SVM代价函数形式](amWiki/images/001/07-Week7/1-Support Vector Machines/5-内置习题_区别逻辑回归和SVM代价函数形式.jpg)  
 ## English
 ### Review the logistic regression hypothesis function
 ![Review the logistic regression hypothesis function](amWiki/images/001/07-Week7/1-Support Vector Machines/1-回顾逻辑回归假设函数.jpg)
